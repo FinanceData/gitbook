@@ -1,15 +1,13 @@
 # KoNLPy 설치 \(Windows+Anaconda\)
 
-설치 방법은 아래에 운영체제별로 설명되어 있습니다.   
- [http://konlpy.org/ko/latest/install/](http://konlpy.org/ko/latest/install/)
+설치 방법은 아래에 운영체제별로 설명되어 있습니다.  
+[http://konlpy.org/ko/latest/install/](http://konlpy.org/ko/latest/install/)
 
 윈도우+아나콘다 설치를 좀 더 상세하게 살펴봅니다.
 
 ## 파이썬 32비트, 64비트 구분
 
 명령라인에서 python을 입력합니다.
-
- 
 
 ![](https://i.imgur.com/5Oy5SKj.png)
 
